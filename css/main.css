@@ -1,14 +1,24 @@
 *{
     list-style: none;
+    text-decoration: none;
 }
-
+body{
+    font-family: 'Rubik', 'Arial' 'sans-serif';
+}
+.header-namangans-images{
+width: 264px;
+height: 28px;
+}
+.header-namangans-course-symbol{
+    color: #2959CE;
+}
 .header-namangans-course{
  font-family: 'Rubik';
 font-style: normal;
 font-weight: 700;
 font-size: 16px;
 line-height: 19px;
-color: #2959CE;   
+
 }
 .header-namangans-lan-uz{
     font-style: normal;
@@ -41,6 +51,14 @@ line-height: 21px;
 text-align: center;
 color: #7F7F7F;
 }
+.aside-advertising-link{
+    width: 1200px;
+    height: 128px;
+}
+.section-news-title{
+    width: 393px;
+    height: 382px;
+}
 .section-news-link{
     font-style: normal;
 font-weight: 500;
@@ -55,12 +73,20 @@ font-size: 16px;
 line-height: 22px;
 color: #4A4B4C;
 }
+.section-news-image{
+    width: 359px;
+    height: 165px;
+}
 .section-news-dates-text{
     font-style: normal;
 font-weight: 400;
 font-size: 12px;
 line-height: 14px;
 color: #5E5F61;
+}
+.news-info{
+    width: 1050px;
+    height: 100px;
 }
 .news-info-title{
     font-style: normal;
@@ -77,6 +103,10 @@ line-height: 24px;
 color: #FFFFFF;
 background: #F78B3B;
 border-radius: 10px;
+}
+.section-news-war-image{
+    width: 210px;
+    height: 165px;
 }
 .section-news-war-link{
     font-style: normal;
@@ -106,6 +136,10 @@ font-size: 24px;
 line-height: 28px;
 color: #000000;
 }
+.section-news-more-news{
+    width: 393px;
+    height: 502px;
+}
 .section-news-more-news-link{
     font-style: normal;
 font-weight: 500;
@@ -119,6 +153,14 @@ font-weight: 400;
 font-size: 13px;
 line-height: 15px;
 color: #5E5F61;
+}
+.section-news-war-dates-icon{
+    width: 20px;
+    height: 20px;
+}
+.aside-more-sites-link{
+    width: 393px;
+    height: 338px;
 }
 .namangans-news-text{
     font-style: normal;
@@ -140,4 +182,8 @@ font-weight: 500;
 font-size: 18px;
 line-height: 23px;
 color: #000000;
+}
+.social-networks-img{
+    width: 25px;
+    height: 25px;
 }
